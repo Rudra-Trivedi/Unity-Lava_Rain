@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 84a88b62daa49574d990bff8cc991052
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lava_Fireball_Spritesheet_0
+    21300002: Lava_Fireball_Spritesheet_1
+    21300004: Lava_Fireball_Spritesheet_2
+    21300006: Lava_Fireball_Spritesheet_3
+    21300008: Lava_Fireball_Spritesheet_4
+    21300010: Lava_Fireball_Spritesheet_5
+    21300012: Lava_Fireball_Spritesheet_6
+    21300014: Lava_Fireball_Spritesheet_7
+    21300016: Lava_Fireball_Spritesheet_8
+    21300018: Lava_Fireball_Spritesheet_9
+    21300020: Lava_Fireball_Spritesheet_10
+    21300022: Lava_Fireball_Spritesheet_11
+    21300024: Lava_Fireball_Spritesheet_12
+    21300026: Lava_Fireball_Spritesheet_13
+    21300028: Lava_Fireball_Spritesheet_14
+    21300030: Lava_Fireball_Spritesheet_15
+    21300032: Lava_Fireball_Spritesheet_16
+    21300034: Lava_Fireball_Spritesheet_17
+    21300036: Lava_Fireball_Spritesheet_18
+    21300038: Lava_Fireball_Spritesheet_19
+    21300040: Lava_Fireball_Spritesheet_20
+    21300042: Lava_Fireball_Spritesheet_21
+    21300044: Lava_Fireball_Spritesheet_22
+    21300046: Lava_Fireball_Spritesheet_23
+    21300048: Lava_Fireball_Spritesheet_24
+    21300050: Lava_Fireball_Spritesheet_25
+    21300052: Lava_Fireball_Spritesheet_26
+    21300054: Lava_Fireball_Spritesheet_27
+    21300056: Lava_Fireball_Spritesheet_28
+    21300058: Lava_Fireball_Spritesheet_29
+    21300060: Medium_Lava_Drop
+    21300062: Lava_Fireball_Spritesheet_31
+    21300064: Lava_Fireball_Spritesheet_32
+    21300066: Lava_Fireball_Spritesheet_33
+    21300068: Lava_Fireball_Spritesheet_34
+    21300070: Lava_Fireball_Spritesheet_35
+    21300072: Lava_Fireball_Spritesheet_36
+    21300074: Lava_Fireball_Spritesheet_37
+    21300076: Lava_Fireball_Spritesheet_38
+    21300078: Big_lava_Drop
+    21300080: Lava_Fireball_Spritesheet_40
+    21300082: Lava_Fireball_Spritesheet_41
+    21300084: Lava_Fireball_Spritesheet_42
+    21300086: Lava_Fireball_Spritesheet_43
+    21300088: Lava_Fireball_Spritesheet_44
+    21300090: Lava_Fireball_Spritesheet_45
+    21300092: Lava_Fireball_Spritesheet_46
+    21300094: Lava_Fireball_Spritesheet_47
+    21300096: Lava_Fireball_Spritesheet_48
+    21300098: Lava_Fireball_Spritesheet_49
+    21300100: Lava_Fireball_Spritesheet_50
+    21300102: Lava_Fireball_Spritesheet_51
+    21300104: Lava_Fireball_Spritesheet_52
+    21300106: Lava_Fireball_Spritesheet_53
+    21300108: Lava_Fireball_Spritesheet_54
+    21300110: Lava_Fireball_Spritesheet_55
+    21300112: Lava_Fireball_Spritesheet_56
+    21300114: Lava_Fireball_Spritesheet_57
+    21300116: Lava_Fireball_Spritesheet_58
+    21300118: Lava_Fireball_Spritesheet_59
+    21300120: Lava_Fireball_Spritesheet_60
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055ad67414e9a1749b715ea3e9c546f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f44464554bf01448f67b824da7f60e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 138
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3e629453fd811449756e8dfce7aa04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 138
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b91e48103af34fbb91993b7a764cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df7f00320de334c87425f50877ac1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7bb6f8938cd5e4a8aa557fe3b0ef1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9320eb07401526469204e7c7f58dd11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 137
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa7fa97cb59d7d499a90f5dc1371856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e493db1ff3659f847a45ce676b43ea1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5c2f8b83dac64a9a33ca7a7a61cb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5277a39055accd445b8caebcd6ddaba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba56e2db9d1e74a90dc758d95cc5dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33a2618b226dae43a36e629729aca28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1d3cb2a44e3b343b9f02b3b0ea5d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d82b3c1cdf2441a57132fb462fe60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f38a892249d01c439b7374519462f15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64368e3e43a8dc84982793dd0c1391b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8d037a6e3db6a42b92e532b56cf766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b750597e048704daf6181407f8de60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2ee182aa61a1840b09f446f69fc3ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6af0a2f7ee6c24cbc1e80c125239c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd95b339cb991458ef67116f4e54de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0686096b8f5b02142811392de71d1df1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964103796b2ff8643b1661fdf0164a2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37405f431c0cc2448b43ee1ddb1b5ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 69
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e8ae40c95adcb4c928ef77d72b410f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 69
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851426135c2dd744bb24ca3f4cf0702a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 69
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e40ade9f02d1440a29ebc3b22479f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20377a26c1ca48b4facb4bde07aa500c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e02177b3fe3664e9147c14b692e16f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium_Lava_Drop
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d98803b35379469c8de0e225cc5aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 61
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa248c7f68330d4aa0956f967bcac64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 41
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74944ab2d9745bc44bb6edbba68e52ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 41
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9209b75dd5494541a00fd8ed9ba0b4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 41
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248fb25c60ec05b4789a5cfa0aedd729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 41
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0530f407309f56a419f5a118da16598d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 25
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ec49ef0009dea47862fc6d0d1e3701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 25
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8566cda1912fd4ca9e847996158bd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 25
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1648cee1d727347a137cf936a45e6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_lava_Drop
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 25
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ea2a682f8ee244b97aa9e224e0e56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b2c9d7152e536489c05d0869ca4dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5426cff6df173934b8af2803aed7b8f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ce492b2562acf4f964a115c1bd4a8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd178333fbe1065479d8938ffc4b8736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c280612431017744b87884f338a36d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b00c81dfcc8d4f93bf7983eb0b62e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdcbef87d2c4fc4f88e2d90cf595415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6fb5f2ac833944781a6f22bc89fcc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e07ed34f8a430b499bf35e14572537c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20647f75a62e1546bb057c0a6d75f03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617ff96357afaa24e9ad204e7421efb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 11
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3932f27c6b9d6a94a83e697ef1c647c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f66ee9b90a26442a50ac7015adcdea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2f68984e216448ab51691074f9de4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8e535d03adc7e47bb96413b5e721d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc88bd5341d3fe4e9eb79a0120796c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90497e9145f55e4ba775267cab25f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab31e407b033dc94baa422f6687b7989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf84dcbadcef0545b2e1625fa5fa285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e3372f383fef42b9ac64f09ad3269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_Fireball_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fdb80e3d40d6b40a5bf2a316924f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 80f7d472fe3b49247bee22d4b02013a2
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
